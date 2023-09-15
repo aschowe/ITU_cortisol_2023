@@ -38,9 +38,9 @@ in-text.
 Demographic comparisons between women with and without expected CAR pattern. Results are shown 
 in supplemental results, Table 7-9. 
  
-#06_ITU_cortPlots
+## 06_ITU_cortPlots
 Code for Figure 1,2, and 3. 
 
-#ITU_lmm_helper_functions.R
+## ITU_lmm_helper_functions.R
 Function applied in several scripts including formatting output in nice table format, ICC 
 function etc. Basis for ICC function is explained in the supplemental methods. 
